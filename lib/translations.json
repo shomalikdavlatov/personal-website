@@ -1,0 +1,299 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "skills": "Skills",
+      "projects": "Projects",
+      "blog": "Blog",
+      "contact": "Contact",
+      "dashboard": "Dashboard"
+    },
+    "home": {
+      "title": "Full Stack Developer",
+      "subtitle": "Building scalable systems and real-world solutions from Uzbekistan to the world",
+      "cta": "Explore My Work",
+      "cta_secondary": "Let's Connect"
+    },
+    "about": {
+      "title": "About Me",
+      "bio": "Full-stack engineer from Fergana, Uzbekistan. 18 years old. Passionate about backend systems, cloud infrastructure, and distributed systems.",
+      "focusTitle": "Focus Areas",
+      "focus1": "Currently focusing on Trackify project",
+      "focus2": "Interested in AI, finance, and real-world automation tools",
+      "focus3": "Enjoys tech community building & mentoring beginners",
+      "hobbiesTitle": "Hobbies",
+      "hobby1": "Networking",
+      "hobby2": "Reading",
+      "hobby3": "Tech meetups",
+      "hobby4": "Speaking with English speakers"
+    },
+    "skills": {
+      "title": "Skills",
+      "programming": "Programming",
+      "languages": "Languages",
+      "soft": "Soft Skills",
+      "databases": "Databases",
+      "backend": "Backend",
+      "devops": "DevOps & Cloud",
+      "frontend": "Frontend",
+      "styling": "Styling",
+      "levelNative": "Native",
+      "levelC1": "C1",
+      "levelB1": "B1"
+    },
+    "projects": {
+      "title": "Projects",
+      "it": "IT Projects",
+      "life": "Life Projects"
+    },
+    "blog": {
+      "title": "Blog",
+      "noPosts": "No posts yet",
+      "backToBlog": "Back to Blog",
+      "postNotFound": "Post not found"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "Email",
+      "name": "Full Name",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "description": "Have a project in mind? Reach out and let's create something amazing together.",
+      "phone": "Phone number"
+    },
+    "login": {
+      "title": "Dashboard",
+      "subtitle": "Admin Login",
+      "username": "Username",
+      "password": "Password",
+      "submit": "Login",
+      "loading": "Logging in...",
+      "error": "Invalid username or password",
+      "demoTitle": "Demo credentials",
+      "demoUsername": "Username: shomalik",
+      "demoPassword": "Password: shomalik1996"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "logout": "Logout",
+      "loading": "Loading..."
+    },
+    "blogManager": {
+      "newPost": "New Blog Post",
+      "title": "Title",
+      "slug": "Slug",
+      "excerpt": "Excerpt",
+      "content": "Content (HTML)",
+      "create": "Create Post",
+      "cancel": "Cancel",
+      "blogPosts": "Blog Posts",
+      "loading": "Loading...",
+      "noPosts": "No posts yet",
+      "deleteConfirm": "Are you sure you want to delete this post?",
+      "edit": "Edit",
+      "delete": "Delete",
+      "deleteSuccess": "Post deleted successfully",
+      "createSuccess": "Post created successfully",
+      "error": "Error creating post",
+      "deleteError": "Failed to delete post"
+    }
+  },
+  "uz": {
+    "nav": {
+      "home": "Bosh sahifa",
+      "about": "Men haqida",
+      "skills": "Ko'nikmalar",
+      "projects": "Loyihalar",
+      "blog": "Blog",
+      "contact": "Aloqa",
+      "dashboard": "Boshqaruv paneli"
+    },
+    "home": {
+      "title": "Full Stack Developer",
+      "subtitle": "Uzbekistandan dunyoga qarab masshtabli tizimlari va haqiqiy yechimlarni yarataman",
+      "cta": "Mening ishlari",
+      "cta_secondary": "Bog'lanish"
+    },
+    "about": {
+      "title": "Men haqida",
+      "bio": "Fergonadan kelib chiqgan Full-stack muhandis. 18 yosh. Backend tizimlari, bulut infratuzilmasi va taqsimlangan tizimlarga ishtiyoqli.",
+      "focusTitle": "Diqqat sohalari",
+      "focus1": "Hozirda Trackify loyihasiga e'tibor qaratyapman",
+      "focus2": "AI, moliya va real-time avtomatizatsiya vositalariga qiziqaman",
+      "focus3": "Texnologiya jamiyatini yaratish va boshlang'ichlarni mentoring qilishni yoqtiram",
+      "hobbiesTitle": "Sevimli shug'ullar",
+      "hobby1": "Netvorking",
+      "hobby2": "O'qish",
+      "hobby3": "Texnika uchrashuvlari",
+      "hobby4": "Ingliz tilida so'zlashuvchilar bilan suhbatlashish"
+    },
+    "skills": {
+      "title": "Ko'nikmalar",
+      "programming": "Dasturlash",
+      "languages": "Tillar",
+      "soft": "Yumshoq ko'nikmalar",
+      "databases": "Bazalar",
+      "backend": "Backend",
+      "devops": "DevOps & Bulut",
+      "frontend": "Frontend",
+      "styling": "Uslub"
+    },
+    "projects": {
+      "title": "Loyihalar",
+      "it": "IT Loyihalar",
+      "life": "Hayot Loyihalari"
+    },
+    "blog": {
+      "title": "Blog",
+      "noPosts": "Hali post yo'q",
+      "backToBlog": "Blogga qaytish",
+      "postNotFound": "Post topilmadi"
+    },
+    "contact": {
+      "title": "Aloqa",
+      "email": "Email",
+      "name": "To'liq ism",
+      "subject": "Mavzu",
+      "message": "Xabar",
+      "send": "Xabari jo'natish",
+      "description": "Loyihani ko'z oldingizda ko'ryapsizmi? Bog'lanib, birga ajoyib narsa yarataylik.",
+      "phone": "Telefon raqam"
+    },
+    "login": {
+      "title": "Boshqaruv paneli",
+      "subtitle": "Admin Kirish",
+      "username": "Foydalanuvchi nomi",
+      "password": "Parol",
+      "submit": "Kirish",
+      "loading": "Kirilmoqda...",
+      "error": "Noto'g'ri foydalanuvchi nomi yoki parol",
+      "demoTitle": "Demo ma'lumotlari",
+      "demoUsername": "Foydalanuvchi nomi: shomalik",
+      "demoPassword": "Parol: shomalik1996"
+    },
+    "dashboard": {
+      "title": "Boshqaruv paneli",
+      "logout": "Chiqish",
+      "loading": "Yuklanganda..."
+    },
+    "blogManager": {
+      "newPost": "Yangi Blog Post",
+      "title": "Sarlavha",
+      "slug": "URL slug",
+      "excerpt": "Qisqacha tasnifi",
+      "content": "Mazmun (HTML)",
+      "create": "Post yaratish",
+      "cancel": "Bekor qilish",
+      "blogPosts": "Blog Postlar",
+      "loading": "Yuklanganda...",
+      "noPosts": "Hali post yo'q",
+      "deleteConfirm": "Bu postni o'chirmoqchisiz?",
+      "edit": "Tahrirlash",
+      "delete": "O'chirish",
+      "deleteSuccess": "Post muvaffaqiyatli o'chirildi",
+      "createSuccess": "Post muvaffaqiyatli yaratildi",
+      "error": "Postni yaratishda xato",
+      "deleteError": "Postni o'chirishda xato"
+    }
+  },
+  "ru": {
+    "nav": {
+      "home": "Главная",
+      "about": "Обо мне",
+      "skills": "Навыки",
+      "projects": "Проекты",
+      "blog": "Блог",
+      "contact": "Контакт",
+      "dashboard": "Панель управления"
+    },
+    "home": {
+      "title": "Full Stack Developer",
+      "subtitle": "Создаю масштабируемые системы и реальные решения из Узбекистана для всего мира",
+      "cta": "Посмотреть мои работы",
+      "cta_secondary": "Давайте свяжемся"
+    },
+    "about": {
+      "title": "Обо мне",
+      "bio": "Full-stack инженер из Фергоны, Узбекистан. 18 лет. Увлечен бэкенд-системами, облачной инфраструктурой и распределенными системами.",
+      "focusTitle": "Области интересов",
+      "focus1": "В настоящее время сосредоточен на проекте Trackify",
+      "focus2": "Интересуюсь ИИ, финансами и инструментами реальной автоматизации",
+      "focus3": "Люблю строить технологическое сообщество и наставлять начинающих",
+      "hobbiesTitle": "Хобби",
+      "hobby1": "Нетворкинг",
+      "hobby2": "Чтение",
+      "hobby3": "Техническая встреча",
+      "hobby4": "Разговор с носителями английского языка"
+    },
+    "skills": {
+      "title": "Навыки",
+      "programming": "Программирование",
+      "languages": "Языки",
+      "soft": "Мягкие навыки",
+      "databases": "Базы данных",
+      "backend": "Backend",
+      "devops": "DevOps и облако",
+      "frontend": "Frontend",
+      "styling": "Оформление"
+    },
+    "projects": {
+      "title": "Проекты",
+      "it": "IT Проекты",
+      "life": "Жизненные проекты"
+    },
+    "blog": {
+      "title": "Блог",
+      "noPosts": "Постов нет",
+      "backToBlog": "Вернуться в блог",
+      "postNotFound": "Пост не найден"
+    },
+    "contact": {
+      "title": "Контакт",
+      "email": "Email",
+      "name": "Полное имя",
+      "subject": "Тема",
+      "message": "Сообщение",
+      "send": "Отправить сообщение",
+      "description": "Есть проект? Напишите нам и давайте создадим что-то потрясающее вместе.",
+      "phone": "Телефон номер"
+    },
+    "login": {
+      "title": "Панель управления",
+      "subtitle": "Вход администратора",
+      "username": "Имя пользователя",
+      "password": "Пароль",
+      "submit": "Войти",
+      "loading": "Вход...",
+      "error": "Неверное имя пользователя или пароль",
+      "demoTitle": "Демонстрационные учетные данные",
+      "demoUsername": "Имя пользователя: shomalik",
+      "demoPassword": "Пароль: shomalik1996"
+    },
+    "dashboard": {
+      "title": "Панель управления",
+      "logout": "Выход",
+      "loading": "Загрузка..."
+    },
+    "blogManager": {
+      "newPost": "Новая статья блога",
+      "title": "Заголовок",
+      "slug": "URL слаг",
+      "excerpt": "Краткое описание",
+      "content": "Содержание (HTML)",
+      "create": "Создать статью",
+      "cancel": "Отмена",
+      "blogPosts": "Статьи блога",
+      "loading": "Загрузка...",
+      "noPosts": "Статей нет",
+      "deleteConfirm": "Вы уверены, что хотите удалить эту статью?",
+      "edit": "Редактировать",
+      "delete": "Удалить",
+      "deleteSuccess": "Статья успешно удалена",
+      "createSuccess": "Статья успешно создана",
+      "error": "Ошибка при создании статьи",
+      "deleteError": "Ошибка при удалении статьи"
+    }
+  }
+}
